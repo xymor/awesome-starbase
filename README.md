@@ -4,6 +4,12 @@
 
 ### Yolo scripts
 
+ - [ISAN: Integrated System for Autonomous Navigation](https://github.com/Collective-SB/ISAN)
+ - [Mining: Material Scanner script by Pfandadler](https://github.com/DerPfandadler/Pfandadler-YOLOL/tree/main/Material%20Scanner)
+  
+ 
+
+
 ### Ships
 
 
