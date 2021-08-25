@@ -12,6 +12,8 @@
 
 ### Ships
 
+ - [Miridan - The Living One](https://www.reddit.com/r/starbase/comments/pb97b3/miridan_the_living_one_my_newest_project_is_alive/)
+
 
 #### Contribute
  Send a PR with the content you'd like to contribute
