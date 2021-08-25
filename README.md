@@ -12,7 +12,7 @@
 
 ### Ships
 
- - [Miridan - The Living One](https://www.reddit.com/r/starbase/comments/pb97b3/miridan_the_living_one_my_newest_project_is_alive/)
+ - [Miridan - The Living One](https://www.reddit.com/r/starbase/comments/pb97b3/miridan_the_living_one_my_newest_project_is_alive/) [(fbe)](https://github.com/xymor/awesome-starbase/blob/master/blueprints/custom/miridan/ship_1140.fbe)
 
 
 #### Contribute
