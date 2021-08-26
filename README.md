@@ -2,7 +2,7 @@
 # Awesome Starbase
 ## Collection of tools and scripts for FrostByte's [Starbase](https://store.steampowered.com/app/454120/Starbase/)
 
-### Yolo scripts
+### Yoloi scripts
 
  - [ISAN: Integrated System for Autonomous Navigation](https://github.com/Collective-SB/ISAN)
  - [Mining: Material Scanner script by Pfandadler](https://github.com/DerPfandadler/Pfandadler-YOLOL/tree/main/Material%20Scanner)
