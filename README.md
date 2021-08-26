@@ -20,7 +20,7 @@
 | Catfish   |     [Leslawangelo](https://old.reddit.com/r/starbase/comments/p7c1fw/many_people_asked_for_blueprint_of_my_catfish_you/h9ikzh0/)              |  ![Catfish](https://raw.githubusercontent.com/xymor/awesome-starbase/master/blueprints/custom/catfish/tzcfracmfai71.webp)   | [File](https://old.reddit.com/r/starbase/comments/p7c1fw/many_people_asked_for_blueprint_of_my_catfish_you/h9ikzh0/) | [Post](https://old.reddit.com/r/starbase/comments/p7c1fw/many_people_asked_for_blueprint_of_my_catfish_you/)          |
 | Barebones   |     Unknown   |  ![Barebones](https://raw.githubusercontent.com/xymor/awesome-starbase/master/blueprints/custom/barebones/Screenshot%20(20).png)   | [File](https://github.com/xymor/awesome-starbase/blob/master/blueprints/custom/barebones/ship_16.fbe) |        |
 | ION Auk v.1.20   |     Unknown   |  ![Weird](https://raw.githubusercontent.com/xymor/awesome-starbase/master/blueprints/custom/weird/Screenshot%20(19).png)   | [File](https://github.com/xymor/awesome-starbase/blob/master/blueprints/custom/weird/ship_15.fbe) |        |
-
+| Buppers   |     Unknown   |  ![Buppers](https://raw.githubusercontent.com/xymor/awesome-starbase/master/blueprints/custom/buppers/buppers.jpg)   | [File](https://github.com/xymor/awesome-starbase/blob/master/blueprints/custom/buppers/1.fbe) |  [Readme](https://github.com/xymor/awesome-starbase/tree/master/blueprints/custom/buppers) |
 
 #### Contribute
  Send a PR with the content you'd like to contribute
