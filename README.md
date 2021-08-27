@@ -2,9 +2,10 @@
 # Awesome Starbase
 ## Collection of tools and scripts for FrostByte's [Starbase](https://store.steampowered.com/app/454120/Starbase/)
 
-### Yoloi scripts
+### YOLOL scripts
 
  - [ISAN: Integrated System for Autonomous Navigation](https://github.com/Collective-SB/ISAN)
+ - [ISAN Addon: Waypoint System Script Suite by Archaego](https://github.com/Archaegeo/Starbase/tree/main/ISAN-Waypoint%20System)
  - [Mining: Material Scanner script by Pfandadler](https://github.com/DerPfandadler/Pfandadler-YOLOL/tree/main/Material%20Scanner)
  - [Smart Generator Management](https://steamlists.com/starbase-automatic-generator-output-with-basic-yolol/)
   
