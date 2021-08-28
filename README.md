@@ -15,7 +15,6 @@
 |--------------|---------------|-------------------------------------------------------|-----|-------------|
 | Miridan     |  [MuFuTee](https://www.reddit.com/r/starbase/comments/pb97b3/miridan_the_living_one_my_newest_project_is_alive/haa5eq3/?utm_source=reddit&utm_medium=web2x&context=3) |![Miridan](/blueprints/custom/miridan/ih8ibecglhj71.webp)           | [File](/blueprints/custom/miridan/ship_1140.fbe)           |    [Post](https://www.reddit.com/gallery/pb97b3)         |
 | Catfish   |     [Leslawangelo](https://old.reddit.com/r/starbase/comments/p7c1fw/many_people_asked_for_blueprint_of_my_catfish_you/h9ikzh0/)              |  ![Catfish](/blueprints/custom/catfish/tzcfracmfai71.webp)   | [File](/blueprints/custom/catfish/ship_1241.fbe) | [Post](https://old.reddit.com/r/starbase/comments/p7c1fw/many_people_asked_for_blueprint_of_my_catfish_you/)          |
-| Barebones   |     Unknown   |  ![Barebones](/blueprints/custom/barebones/barebones_ship-min.PNG)   | [File](/blueprints/custom/barebones/ship_16.fbe) |        |
 | Buppers   |     Unknown   |  ![Buppers](/blueprints/custom/buppers/buppers.jpg)   | [File](/blueprints/custom/buppers/1.fbe) |  [Readme](/blueprints/custom/buppers) |
 
 #### Contribute
