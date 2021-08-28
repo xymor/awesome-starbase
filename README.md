@@ -17,6 +17,7 @@
 | Catfish   |     [Leslawangelo](https://old.reddit.com/r/starbase/comments/p7c1fw/many_people_asked_for_blueprint_of_my_catfish_you/h9ikzh0/)              |  ![Catfish](/blueprints/custom/catfish/tzcfracmfai71.webp)   | [File](/blueprints/custom/catfish/ship_1241.fbe) | [Post](https://old.reddit.com/r/starbase/comments/p7c1fw/many_people_asked_for_blueprint_of_my_catfish_you/)          |
 | Buppers   |     Unknown   |  ![Buppers](/blueprints/custom/buppers/buppers.jpg)   | [File](/blueprints/custom/buppers/1.fbe) |  [Readme](/blueprints/custom/buppers) |
 | Barebones   |     Unknown   |  ![Barebones](/blueprints/custom/barebones/barebones-mat.png)   | [File](/blueprints/custom/barebones/ship_15.fbe) |   |
+| Stingray   |     [LesWAV](https://www.patreon.com/lesWAV)              |  ![Stingray](/blueprints/custom/stingray/Stingray.png)   | [File](https://www.patreon.com/posts/hf-t2-stingray-55422863) | [Post](https://www.patreon.com/posts/hf-t2-stingray-55422863)          |
 
 #### Contribute
  Send a PR with the content you'd like to contribute
