@@ -19,7 +19,7 @@
 | Barebones   |     Unknown   |  ![Barebones](/blueprints/custom/barebones/barebones-mat.png)   | [File](/blueprints/custom/barebones/ship_15.fbe) |   |
 | Stingray   |     [LesWAV](https://www.patreon.com/lesWAV)              |  ![Stingray](/blueprints/custom/stingray/Stingray.png)   | [File](https://www.patreon.com/posts/hf-t2-stingray-55422863) | [Post](https://www.patreon.com/posts/hf-t2-stingray-55422863)          |
 | V-Wing   |     [Chthonolasius](https://github.com/Chthonolasius)              |  ![V-Wing](https://raw.githubusercontent.com/Chthonolasius/Starbase/main/Fighter_Ship/V-Wing/V-Wing%20picture.png)   | [File](https://github.com/Chthonolasius/Starbase/tree/main/Fighter_Ship/V-Wing) | [Post](https://www.reddit.com/r/starbase/comments/pduw1j/vwing_version_8_are_actually_available_link_to_dl/)          |
-
+| X-Wing   |     [gtaDom](https://www.reddit.com/user/gtaDom/)              |  ![X-Wing](https://raw.githubusercontent.com/xymor/awesome-starbase/master/blueprints/custom/xwing/h6chbgjlsjk71.webp)   | [File](https://www.reddit.com/r/starbase/comments/pepf2t/xwing_blueprint/) | [Post](https://www.reddit.com/r/starbase/comments/pepf2t/xwing_blueprint/)          |
 
 https://raw.githubusercontent.com/Chthonolasius/Starbase/main/Fighter_Ship/V-Wing/V-Wing%20picture.png
 ### Userful Tools
