@@ -25,5 +25,6 @@ https://raw.githubusercontent.com/Chthonolasius/Starbase/main/Fighter_Ship/V-Win
 ### Userful Tools
 
  - [Starbase Ship Search](https://sb-creators.org/)
+ - [Research points optimization](https://docs.google.com/spreadsheets/d/19Ce3veTJyVLm_qoAqV4QWIJNODuXwLbvv2GhGB37Nkg/edit#gid=493085647)
 #### Contribute
  Send a PR with the content you'd like to contribute
