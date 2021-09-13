@@ -8,6 +8,9 @@
  - [ISAN Addon: Waypoint System Script Suite by Archaego](https://github.com/Archaegeo/Starbase/tree/main/ISAN-Waypoint%20System)
  - [Mining: Material Scanner script by Pfandadler](https://github.com/DerPfandadler/Pfandadler-YOLOL/tree/main/Material%20Scanner)
  - [Smart Generator Management](https://steamlists.com/starbase-automatic-generator-output-with-basic-yolol/)
+ - [Yolol Online editor](https://yolol.humanengine.net/)
+
+
   
 ### Ships
 
