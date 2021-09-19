@@ -1,0 +1,17 @@
+// Approach ahead - Mutleyx
+:Approach=0 :range=0 od=0 oa=0
+a=:Approach if a!=oa then oa=a :range=a end goto 3+a
+d=:RangeAhead if d!=500 then goto 6 end
+:FCUForward=0 :FCUBackward=0 goto 3
+id d>15 and d<20 then goto 9 end
+done=0 cd=17.5-d dx=od-cd od=cd adj=-(cd-4.5*dx) goto 15
+
+:FCUForward=0 :FCUBackward=0
+done++ if done > 10 then done=0 :Approach = 0 end
+goto 2*:Approach+2
+
+
+
+if adj>d then adj=d end :FCUForward=0 :FCUBackward=0
+if adj<0 then :FCUBackward=-adj*0.5 else :FCUForward=adj*0.17 end
+if :Approach then goto 4 else goto 9 end
